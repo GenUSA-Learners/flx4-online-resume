@@ -1,0 +1,27 @@
+.img-thumbnail{
+    height: 25px;
+    width: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.img-profile{
+    height: 200px;
+    width: 225px;
+    margin-top: 15px;
+}
+
+.contact-details
+{
+    width:270; 
+    align-items: center; 
+    background-color:dimgray; 
+}
+
+.caption-text
+{
+    color:white; 
+    text-align: center;
+    
+}
